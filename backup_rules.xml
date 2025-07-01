@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="sharedpref" path="ParentKidsAppPrefs.xml"/>
+    <exclude domain="database" path="monitoring.db"/>
+    <exclude domain="file" path="captures/"/>
+    <exclude domain="file" path="logs/"/>
+    <exclude domain="file" path="temp/"/>
+</full-backup-content>
+
